@@ -1,16 +1,21 @@
-## Hi there 👋
+print("✨ Hello, Fellow Devs! Welcome to My GitHub! ✨")
 
-<!--
-**eyasahbeni/eyasahbeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  🌸🎀 𝒲𝑒𝓁𝒸𝑜𝓂𝑒! 🎀🌸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I'm Eya 💕, a passionate & imaginative web & mobile developer who loves turning ideas into reality! ✨
+
+🌟 About Me:
+🌷 Fresh Developer exploring the world of code
+🌸 Currently Learning: Laravel & Python 🐍
+🎀 Passionate About: Creativity, problem-solving & beautiful UI/UX
+💖 Fun Fact: My imagination never sleeps—I’m always dreaming up new ideas! 💡
+
+🚀 What I’m Up To:
+🌱 Leveling up my coding skills!
+👯 Open to collaborating on fun & innovative projects ✨
+💬 Let’s talk tech, anime, and all things creative! 🎨
+
+Let’s connect & build something magical together! ✨💻
+
