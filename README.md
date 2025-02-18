@@ -37,8 +37,31 @@
   </p>  
 </div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/yo_u_taa_/?next=%2F) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eya-sahbeni/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eyasahbeni23707@gmail.com) 
+<div style="position: relative; overflow: hidden; border-radius: 15px; padding: 20px; text-align: center; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <svg style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="socialGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color: #ff9a9e; stop-opacity: 1" />
+        <stop offset="50%" style="stop-color: #fad0c4; stop-opacity: 1" />
+        <stop offset="100%" style="stop-color: #ffdde1; stop-opacity: 1" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#socialGradient)">
+      <animate attributeName="x" from="-200" to="200" dur="5s" repeatCount="indefinite" />
+    </rect>
+  </svg>
+  
+  <h2>🌐 Socials:</h2>
+  <p>
+    <a href="https://linkedin.com/in/eya-sahbeni" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:eyasahbeni23707@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
+</div>
+
 
   <div style="position: relative; overflow: hidden; border-radius: 15px; padding: 20px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <svg style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;" xmlns="http://www.w3.org/2000/svg">
