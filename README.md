@@ -62,28 +62,7 @@
   </p>
 </div>
 
-<div id="about" className="w-full h-screen bg-[#0a192f] text-gray-300">
-      <div className="flex flex-col justify-center items-center w-full h-full">
-        <div className="max-w-[1000px] w-full grid grid-cols-2 gap-8">
-          <div className="sm:text-right pb-8 pl-4">
-            <p className="text-4xl font-bold inline border-b-4 border-pink-600 animate-pulse">
-              🔥 My Tech Stack
-            </p>
-          </div>
-          <div></div>
-        </div>
-        <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
-          <div className="sm:text-right text-4xl font-bold">
-            <p>Hi. I'm passionate about building awesome digital experiences. 💻</p>
-          </div>
-          <div>
-            <p>
-              I’m a full-stack developer focused on creating smooth, dynamic, and visually engaging applications. I love crafting modern frontend interfaces using React and TailwindCSS, and powering them with robust Node.js and Express backends. I bring creativity, fire, and energy to every project I build. 🔥
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
+
 
   <div style="position: relative; overflow: hidden; border-radius: 15px; padding: 20px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <svg style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;" xmlns="http://www.w3.org/2000/svg">
@@ -100,9 +79,9 @@
   </svg>
 
 <div style="background-image: url('https://i.imgur.com/jgWIcfT.jpg'); background-size: cover; background-repeat: no-repeat; padding: 30px; border-radius: 20px; box-shadow: 0px 0px 20px pink;">
-  <h2 align="center" style="font-family: cursive; color: hotpink; font-size: 36px;">💻✨ My Tech Weapons ✨💻</h2>
+  <h2 align="center" style="font-family: cursive; color: hotpink; font-size: 36px;"> TECH STACK ✨💻</h2>
 
-  <h3 align="center" style="color: deeppink; font-family: 'Comic Sans MS';">💄 Frontend</h3>
+  <h3 align="center" style="color: deeppink; font-family: 'Comic Sans MS';"> Frontend</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -122,7 +101,7 @@
     <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
   </p>
 
-  <h3 align="center" style="color: hotpink; font-family: 'Comic Sans MS';">🧁 Backend</h3>
+  <h3 align="center" style="color: hotpink; font-family: 'Comic Sans MS';"> Backend</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
@@ -135,7 +114,7 @@
     <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
   </p>
 
-  <h3 align="center" style="color: mediumvioletred; font-family: 'Comic Sans MS';">🎀 Database</h3>
+  <h3 align="center" style="color: mediumvioletred; font-family: 'Comic Sans MS';"> Database</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
