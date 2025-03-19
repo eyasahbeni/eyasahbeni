@@ -63,6 +63,25 @@
 </div>
 
 
+<!-- Background Image Section Wrapper -->
+<div style="background-image: url('https://i.imgur.com/FWzLDBd.jpg'); background-size: cover; background-position: center; padding: 30px; border-radius: 20px; margin-top: 30px; box-shadow: 0px 0px 20px hotpink; color: white;">
+
+  <!-- Projects Section -->
+  <h2 style="font-family: cursive; font-size: 30px; text-align: center; color: #fff;">🚀 Highlighted Projects</h2>
+  <ul style="font-size: 18px; list-style: none; padding: 0; line-height: 2;">
+    <li>🌈 <b>MyPortfolio:</b> A beautiful responsive portfolio using React & Tailwind.</li>
+    <li>📱 <b>PetCare App:</b> A React Native app for pet care and tracking appointments.</li>
+    <li>💬 <b>ChatMagic:</b> A real-time chat app with Firebase & push notifications.</li>
+  </ul>
+
+  <!-- Certifications Section -->
+  <h2 style="font-family: cursive; font-size: 30px; text-align: center; margin-top: 30px; color: #fff;">📜 Certifications</h2>
+  <ul style="font-size: 18px; list-style: none; padding: 0; line-height: 2;">
+    <li>✅ Full Stack Development – RBK Coding Bootcamp</li>
+    <li>✅ JavaScript Mastery – Udemy</li>
+    <li>✅ Responsive Web Design – freeCodeCamp</li>
+  </ul>
+</div>
 
   <div style="position: relative; overflow: hidden; border-radius: 15px; padding: 20px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <svg style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;" xmlns="http://www.w3.org/2000/svg">
