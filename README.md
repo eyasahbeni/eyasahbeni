@@ -64,7 +64,8 @@
 
 
 <!-- Background Image Section Wrapper -->
-<div style="background-image: url('[https://i.imgur.com/FWzLDBd.jpg](https://png.pngtree.com/background/20230616/original/pngtree-faceted-abstract-background-in-3d-with-shimmering-iridescent-metallic-texture-of-picture-image_3653595.jpg)'); background-size: cover; background-position: center; padding: 30px; border-radius: 20px; margin-top: 30px; box-shadow: 0px 0px 20px hotpink; color: white;">
+<!-- Background Image Section Wrapper -->
+<div style="background-image: url('https://png.pngtree.com/background/20230616/original/pngtree-faceted-abstract-background-in-3d-with-shimmering-iridescent-metallic-texture-of-picture-image_3653595.jpg'); background-size: cover; background-position: center; padding: 30px; border-radius: 20px; margin-top: 30px; box-shadow: 0px 0px 20px hotpink; color: white;">
 
   <!-- Projects Section -->
   <h2 style="font-family: cursive; font-size: 30px; text-align: center; color: #fff;">🚀 Highlighted Projects</h2>
