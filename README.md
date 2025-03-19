@@ -83,9 +83,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=600&lines=🔥+My+Full+Tech+Stack+🔥;💻+Code.+Build.+Deploy.+Repeat.+💥" alt="Typing SVG">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Coding Animation" />
-</p>
+
 
 ---
 
