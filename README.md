@@ -63,20 +63,6 @@
 </div>
 
 
-
-<img src="https://png.pngtree.com/background/20230616/original/pngtree-faceted-abstract-background-in-3d-with-shimmering-iridescent-metallic-texture-of-picture-image_3653595.jpg" width="100%" />
-
-## 🚀 Highlighted Projects
-- 🌈 **MyPortfolio:** A beautiful responsive portfolio using React & Tailwind.
-- 📱 **PetCare App:** A React Native app for pet care and tracking appointments.
-- 💬 **ChatMagic:** A real-time chat app with Firebase & push notifications.
-
-## 📜 Certifications
-- ✅ Full Stack Development – RBK Coding Bootcamp
-- ✅ JavaScript Mastery – Udemy
-- ✅ Responsive Web Design – freeCodeCamp
-
-
   <div style="position: relative; overflow: hidden; border-radius: 15px; padding: 20px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <svg style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;" xmlns="http://www.w3.org/2000/svg">
     <defs>
@@ -159,6 +145,130 @@
 
 
 </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Game-Style Fun Page</title>
+  <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Press Start 2P', cursive;
+      background: linear-gradient(#87ceeb, #ffffff);
+      overflow-x: hidden;
+    }
+    header {
+      text-align: center;
+      padding: 100px 20px 50px;
+      font-size: 24px;
+      color: #fff;
+      animation: typing 3s steps(30, end), blink-caret 0.75s step-end infinite;
+      white-space: nowrap;
+      overflow: hidden;
+      border-right: 2px solid #fff;
+    }
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
+    @keyframes blink-caret {
+      from, to { border-color: transparent }
+      50% { border-color: white; }
+    }
+    .clouds, .stars, .hearts {
+      position: absolute;
+      width: 100px;
+      animation: float 10s linear infinite;
+    }
+    @keyframes float {
+      0% { transform: translateY(0) }
+      100% { transform: translateY(-100vh) }
+    }
+    .content {
+      padding: 40px 20px;
+      text-align: center;
+    }
+    .character {
+      width: 100px;
+      margin: 20px auto;
+      animation: bounce 1s infinite;
+    }
+    @keyframes bounce {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-20px); }
+    }
+    .btn {
+      background-color: #ffcc00;
+      border: 2px solid #333;
+      padding: 10px 20px;
+      cursor: pointer;
+      margin: 10px;
+      font-size: 14px;
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+    .btn:hover {
+      transform: scale(1.1);
+      box-shadow: 0 0 10px #fff;
+    }
+    .contact-section, .footer {
+      padding: 60px 20px;
+      text-align: center;
+      background: #222;
+      color: white;
+    }
+    .footer {
+      font-size: 12px;
+    }
+    .parallax {
+      background-image: url('https://i.imgur.com/O3ZQbA9.png');
+      height: 300px;
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    }
+  </style>
+</head>
+<body>
+
+  <header>✨ Welcome to the Game World ✨</header>
+
+  <div class="clouds" style="top: 80vh; left: 10%;">☁️</div>
+  <div class="stars" style="top: 90vh; left: 50%;">⭐</div>
+  <div class="hearts" style="top: 85vh; left: 80%;">❤️</div>
+
+  <div class="content">
+    <h2>Playful Adventure Awaits!</h2>
+    <img class="character" src="https://i.imgur.com/T1zR7UL.png" alt="Jumping Character">
+    <button class="btn" onclick="playSound()">Start Game</button>
+    <button class="btn" onclick="playSound()">Explore</button>
+  </div>
+
+  <div class="parallax"></div>
+
+  <div class="contact-section">
+    <h3>📬 Contact Me</h3>
+    <p>Email: gamefun@example.com</p>
+    <p>Twitter: @GameFun</p>
+  </div>
+
+  <div class="footer">
+    &copy; 2025 Game Fun World. All rights reserved.
+  </div>
+
+  <audio id="clickSound" src="https://www.fesliyanstudios.com/play-mp3/387" preload="auto"></audio>
+
+  <script>
+    function playSound() {
+      var sound = document.getElementById("clickSound");
+      sound.play();
+    }
+  </script>
+
+</body>
+</html>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=eyasahbeni&theme=date_night&hide_border=false&include_all_commits=false&count_private=false)<br/>
