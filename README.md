@@ -15,9 +15,10 @@
 <div align="center">
   
 
-  <p align="center">  
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+My+Magical+Dev+World!;Web+%26+Mobile+Developer;Dreaming+in+Code+%26+Creativity!+💖;Crafting+Enchanting+User+Experiences!+✨;Turning+Ideas+Into+Reality+with+Code!+🚀" />  
-  </p>  
+<p align="center">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF69B4&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Eya+%F0%9F%92%95;Welcome+to+My+Magical+Dev+World!+%E2%9C%A8;Web+%26+Mobile+Developer+%F0%9F%93%B1%F0%9F%8C%90;Dreaming+in+Code+%26+Creativity!+%F0%9F%92%96;Crafting+Enchanting+User+Experiences!+%F0%9F%8C%99;Turning+Ideas+Into+Reality+with+Code!+%F0%9F%9A%80;Forever+Learning+%26+Building+Magic!+%F0%9F%8C%9F;Let%E2%80%99s+Build+Something+Wonderful+Together!+%F0%9F%8C%BC" />
+</p>
+
 
   <p align="center" style="font-size: 18px; font-weight: bold;">  
     ✨ <b>Web & Mobile Developer | Dreaming in Code & Creativity!</b> 💖<br>  
@@ -145,14 +146,7 @@
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
   </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" />
-</p>
 
-<img src="https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg" />
-
-</div>
 
 
 
