@@ -1,3 +1,69 @@
+<!-- 🌟 Magical Intro Section with Sparkle Animation -->
+<div style="position: relative; overflow: hidden; border-radius: 15px; padding: 30px 20px; text-align: center; color: white; box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2); font-family: 'Segoe UI', sans-serif;">
+  
+  <!-- Animated Gradient Background -->
+  <svg style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -2;" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="pinkGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color: #ff9a9e; stop-opacity: 1" />
+        <stop offset="50%" style="stop-color: #fad0c4; stop-opacity: 1" />
+        <stop offset="100%" style="stop-color: #ffdde1; stop-opacity: 1" />
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#pinkGradient)">
+      <animate attributeName="x" from="-200" to="200" dur="5s" repeatCount="indefinite" />
+    </rect>
+  </svg>
+
+  <!-- ✨ Sparkle Animation Layer -->
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; pointer-events: none;">
+    <style>
+      .sparkle {
+        position: absolute;
+        width: 6px;
+        height: 6px;
+        background: white;
+        border-radius: 50%;
+        opacity: 0.8;
+        animation: twinkle 2s infinite ease-in-out;
+      }
+
+      .sparkle:nth-child(2) { top: 20%; left: 15%; animation-delay: 0.3s; }
+      .sparkle:nth-child(3) { top: 60%; left: 25%; animation-delay: 0.6s; }
+      .sparkle:nth-child(4) { top: 35%; left: 75%; animation-delay: 0.9s; }
+      .sparkle:nth-child(5) { top: 70%; left: 60%; animation-delay: 1.2s; }
+      .sparkle:nth-child(6) { top: 50%; left: 45%; animation-delay: 1.5s; }
+
+      @keyframes twinkle {
+        0%, 100% { opacity: 0.3; transform: scale(0.8); }
+        50% { opacity: 1; transform: scale(1.5); }
+      }
+    </style>
+    <div class="sparkle"></div>
+    <div class="sparkle"></div>
+    <div class="sparkle"></div>
+    <div class="sparkle"></div>
+    <div class="sparkle"></div>
+  </div>
+
+  <!-- 🦄 Typing Animation -->
+  <p align="center">  
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF69B4&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Eya+%F0%9F%92%95;Welcome+to+My+Magical+Dev+World!+%E2%9C%A8;Web+%26+Mobile+Developer+%F0%9F%93%B1%F0%9F%8C%90;Dreaming+in+Code+%26+Creativity!+%F0%9F%92%96;Crafting+Enchanting+User+Experiences!+%F0%9F%8C%99;Turning+Ideas+Into+Reality+with+Code!+%F0%9F%9A%80;Forever+Learning+%26+Building+Magic!+%F0%9F%8C%9F;Let%E2%80%99s+Build+Something+Wonderful+Together!+%F0%9F%8C%BC" />
+  </p>
+
+  <!-- ✨ Intro Text -->
+  <p style="font-size: 18px; font-weight: bold; line-height: 1.7; margin-top: 15px;">  
+    👋 <b>Hi, I’m Eya – a Passionate Full Stack Engineer & Developer!</b> 💻<br>  
+    ✨ <b>Specialized in Crafting Beautiful Web & Mobile Applications</b> 📱<br>  
+    🚀 <b>From Frontend Magic to Backend Logic – I Build it All!</b> 🔧<br>  
+    💡 <b>Creative Thinker | Problem Solver | Team Collaborator</b> 🤝<br>  
+    📚 <b>Currently Exploring: Laravel, Python, Advanced JavaScript & Next.js</b> 🐍<br>  
+    🌸 <b>Driven by Curiosity, Passion, and the Joy of Building</b> ✨<br>  
+    🐾 <b>Proud Dog Mom of Blue & Perla – My Little Coding Buddies!</b> 🐶💕<br>  
+    🌟 <b>Let’s Connect and Build Something Inspiring Together!</b> 💫  
+  </p>
+
+</div>
 
 <div style="position: relative; overflow: hidden; border-radius: 15px; padding: 20px; text-align: center; color: white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <svg style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;" xmlns="http://www.w3.org/2000/svg">
