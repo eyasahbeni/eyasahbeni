@@ -1,15 +1,3 @@
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-<lottie-player 
-  src="https://assets9.lottiefiles.com/packages/lf20_totrpclr.json"
-  background="transparent"
-  speed="1"
-  style="width: 300px; height: 300px;" 
-  loop 
-  autoplay>
-</lottie-player>
-
-
-
 
 <div style="position: relative; overflow: hidden; border-radius: 15px; padding: 20px; text-align: center; color: white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <svg style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;" xmlns="http://www.w3.org/2000/svg">
@@ -24,7 +12,15 @@
       <animate attributeName="x" from="-200" to="200" dur="5s" repeatCount="indefinite" />
     </rect>
   </svg>
-
+<!-- ✨✨ Here’s the animation ✨✨ -->
+  <lottie-player 
+      src="https://lottie.host/6eb23d90-8c97-4687-87a1-bc5bd71fcdd3/HR5w8I9u8b.json"
+      background="transparent"
+      speed="1"
+      style="width: 300px; height: 300px; margin: 0 auto;"
+      loop
+      autoplay>
+  </lottie-player>
   <p align="center">  
     <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+My+Magical+Dev+World!;Web+%26+Mobile+Developer;Dreaming+in+Code+%26+Creativity!+💖;Crafting+Enchanting+User+Experiences!+✨;Turning+Ideas+Into+Reality+with+Code!+🚀" />  
   </p>  
