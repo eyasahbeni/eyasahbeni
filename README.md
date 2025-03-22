@@ -12,15 +12,15 @@
       <animate attributeName="x" from="-200" to="200" dur="5s" repeatCount="indefinite" />
     </rect>
   </svg>
-<!-- ✨✨ Here’s the animation ✨✨ -->
-  <lottie-player 
-      src="https://lottie.host/6eb23d90-8c97-4687-87a1-bc5bd71fcdd3/HR5w8I9u8b.json"
-      background="transparent"
-      speed="1"
-      style="width: 300px; height: 300px; margin: 0 auto;"
-      loop
-      autoplay>
-  </lottie-player>
+<div align="center">
+  
+  <!-- Typing animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+My+Magical+Dev+World!;Web+%26+Mobile+Developer;Dreaming+in+Code+%26+Creativity!+💖;Crafting+Enchanting+User+Experiences!+✨;Turning+Ideas+Into+Reality+with+Code!+🚀" />
+
+  <!-- Replace this with GIF version of your Lottie animation -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWI0dXRzYm5oaDR1cHVoNGRhNHk3M2M3Z3Nya2JkYTh3ZDI3cW1tNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1lk1IcVgqPLkA/giphy.gif" width="300" height="300" />
+  
+</div>
   <p align="center">  
     <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+My+Magical+Dev+World!;Web+%26+Mobile+Developer;Dreaming+in+Code+%26+Creativity!+💖;Crafting+Enchanting+User+Experiences!+✨;Turning+Ideas+Into+Reality+with+Code!+🚀" />  
   </p>  
