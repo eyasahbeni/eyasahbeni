@@ -1,3 +1,16 @@
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player 
+  src="https://assets9.lottiefiles.com/packages/lf20_totrpclr.json"
+  background="transparent"
+  speed="1"
+  style="width: 300px; height: 300px;" 
+  loop 
+  autoplay>
+</lottie-player>
+
+
+
+
 <div style="position: relative; overflow: hidden; border-radius: 15px; padding: 20px; text-align: center; color: white; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   <svg style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: -1;" xmlns="http://www.w3.org/2000/svg">
     <defs>
