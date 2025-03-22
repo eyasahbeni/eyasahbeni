@@ -13,11 +13,12 @@
 </div>
 
 <div align="center">
-  <h2>✨ <b>Web & Mobile Developer | Dreaming in Code & Creativity!</b> 💖</h2>
-  <h3>🚀 <b>Crafting Enchanting User Experiences & Bringing Ideas to Life!</b> 🎨</h3>
-  <h3>🌷 <b>Currently Exploring Laravel & Python</b> 🐍</h3>
-  <h3>🐩 <b>Proud Dog Mom to Blue & Perla!</b> 🐶💕</h3>
+  <h2><b>Full Stack Software Developer</b></h2>
+  <h3>🚀 Passionate About Creating Seamless Web & Mobile Experiences</h3>
+  <h3>📚 Exploring Laravel & Python</h3>
+  <h3>🐶 Dog Mom | Blue & Perla</h3>
 </div>
+
 
 <!-- Animated Code Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
