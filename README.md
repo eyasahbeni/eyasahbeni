@@ -14,13 +14,7 @@
   </svg>
 <div align="center">
   
-  <!-- Typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+My+Magical+Dev+World!;Web+%26+Mobile+Developer;Dreaming+in+Code+%26+Creativity!+💖;Crafting+Enchanting+User+Experiences!+✨;Turning+Ideas+Into+Reality+with+Code!+🚀" />
 
-  <!-- Replace this with GIF version of your Lottie animation -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWI0dXRzYm5oaDR1cHVoNGRhNHk3M2M3Z3Nya2JkYTh3ZDI3cW1tNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1lk1IcVgqPLkA/giphy.gif" width="300" height="300" />
-  
-</div>
   <p align="center">  
     <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=Welcome+to+My+Magical+Dev+World!;Web+%26+Mobile+Developer;Dreaming+in+Code+%26+Creativity!+💖;Crafting+Enchanting+User+Experiences!+✨;Turning+Ideas+Into+Reality+with+Code!+🚀" />  
   </p>  
