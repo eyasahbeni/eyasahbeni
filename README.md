@@ -1,13 +1,12 @@
 <div align="center">
-  <!-- 3D Character Animation Banner -->
-  <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" width="100%">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&color=FF69B4&center=true&vCenter=true&width=800&height=100&lines=Hi+there%2C+I'm+Eya+%F0%9F%92%95;Welcome+to+My+Magical+Dev+World!+%E2%9C%A8;Web+%26+Mobile+Developer+%F0%9F%93%B1%F0%9F%8C%90;Dreaming+in+Code+%26+Creativity!+%F0%9F%92%96" alt="Typing SVG" />
 </div>
 
 <!-- 3D Girl Coding Animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" width="500">
+  <!-- 3D Character Animation Banner -->
+  <img src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif" width="50%">
 </div>
 
 <div align="center">
@@ -158,22 +157,71 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/eyasahbeni/project-name-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyasahbeni&repo=project-name-1&theme=radical" />
-  </a>
-  <a href="https://github.com/eyasahbeni/project-name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=eyasahbeni&repo=project-name-2&theme=radical" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">✨ Health Care App ✨</h3>
+        <div align="center">
+          <a href="#" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="300" alt="Health Care App" />
+          </a>
+          <p>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/LIVE DEMO-ff69b4?style=for-the-badge&logo=codepen&logoColor=white" />
+            </a>
+          </p>
+          <p><strong>React Native, Firebase, Node.js</strong> - A comprehensive healthcare application that connects patients with doctors, manages appointments, and provides health tracking features.</p>
+          <p>Features include:</p>
+          <ul align="left">
+            <li>Real-time appointment scheduling</li>
+            <li>Secure patient-doctor messaging</li>
+            <li>Health metrics tracking</li>
+            <li>Medication reminders</li>
+            <li>Telehealth video consultations</li>
+          </ul>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🌈 AI-Powered Fashion Assistant 🌈</h3>
+        <div align="center">
+          <a href="#" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44a0-9738-f4c3d83a2393.gif" width="300" alt="Fashion Assistant" />
+          </a>
+          <p>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/COMING SOON-ff69b4?style=for-the-badge&logo=react&logoColor=white" />
+            </a>
+          </p>
+          <p><strong>React, TensorFlow.js, Next.js</strong> - A smart fashion assistant that helps users create stylish outfits based on their wardrobe, preferences, and current trends.</p>
+          <p>Features include:</p>
+          <ul align="left">
+            <li>AI-powered outfit recommendations</li>
+            <li>Virtual wardrobe management</li>
+            <li>Style inspiration based on weather</li>
+            <li>Shopping suggestions</li>
+            <li>Color palette matching</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
+<!-- Animated Project Divider -->
 <div align="center">
-  <p>👆 Replace with your actual project repositories 👆</p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-<!-- Animated Coding Cat -->
+<!-- More Projects Coming Soon Animation -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
+  <h3>✨ More Magical Projects Coming Soon! ✨</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="250">
 </div>
+
+
+
+
+
 
 <!-- 3D Animation Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
