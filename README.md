@@ -376,7 +376,19 @@ const eya = {
   funFact: "I believe coding is like magic - you write strange words and amazing things happen!",
   lifePhilosophy: "Code like a girl, in a world full of binary!"
 };
+## 💖 Support Me
 
+`<div align="center">
+  <p>If you like my work, consider buying me a coffee! ☕</p>
+  <a href="https://www.buymeacoffee.com/eyasahbeni">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</div>``<br>``<!-- Animated Footer -->``<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZlMzRkMzRkMzRkMzRkMzRkMzRkMzRkMzRkMzRkMzRkMzRkMzRkMw/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" />
+  <h3>✨ Thanks for visiting! Let's create something magical together! ✨</h3>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZlMzRkMzRkMzRkMzRkMzRkMzRkMzRkMzRkMzRkMzRkMzRkMzRkMw/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100" />
+</div>
+`````</CodeProject>`
 
 
 
