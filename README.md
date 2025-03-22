@@ -30,7 +30,7 @@
   <a href="https://github.com/eyasahbeni">
     <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
   </a>
-  <a href="[https://instagram.com/your-instagram](https://www.instagram.com/yo_u_taa_/?next=%2F](https://www.instagram.com/yo_u_taa_/?next=%2F)">
+  <a href="https://instagram.com/your-instagram](https://www.instagram.com/yo_u_taa_/?next=%2F](https://www.instagram.com/yo_u_taa_/?next=%2F">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
   </a>
 </div>
