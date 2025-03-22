@@ -1,3 +1,9 @@
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;Building+Scalable+Applications;Clean+Code+%26+Creative+Solutions" alt="Typing SVG" />
+  
+  <!-- Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
 <div align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=40&color=FF69B4&center=true&vCenter=true&width=800&height=100&lines=Hi+there%2C+I'm+Eya+%F0%9F%92%95;Welcome+to+My+Magical+Dev+World!+%E2%9C%A8;Web+%26+Mobile+Developer+%F0%9F%93%B1%F0%9F%8C%90;Dreaming+in+Code+%26+Creativity!+%F0%9F%92%96" alt="Typing SVG" />
