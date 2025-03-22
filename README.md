@@ -221,6 +221,168 @@
 
 
 
+## 🌟 Featured Projects
+
+<!-- 3D Project Showcase Animation -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/236304340-d0ce5f82-b8d2-4f46-b5dd-d18a238eedce.gif" width="800">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">✨ Health Care App ✨</h3>
+        <div align="center">
+          <a href="#" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="300" alt="Health Care App" />
+          </a>
+          <p>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/LIVE DEMO-ff69b4?style=for-the-badge&logo=codepen&logoColor=white" />
+            </a>
+          </p>
+          <p><strong>React Native, Firebase, Node.js</strong> - A comprehensive healthcare application that connects patients with doctors, manages appointments, and provides health tracking features.</p>
+          <p>Features include:</p>
+          <ul align="left">
+            <li>Real-time appointment scheduling</li>
+            <li>Secure patient-doctor messaging</li>
+            <li>Health metrics tracking</li>
+            <li>Medication reminders</li>
+            <li>Telehealth video consultations</li>
+          </ul>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🌈 AI-Powered Fashion Assistant 🌈</h3>
+        <div align="center">
+          <a href="#" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44a0-9738-f4c3d83a2393.gif" width="300" alt="Fashion Assistant" />
+          </a>
+          <p>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/COMING SOON-ff69b4?style=for-the-badge&logo=react&logoColor=white" />
+            </a>
+          </p>
+          <p><strong>React, TensorFlow.js, Next.js</strong> - A smart fashion assistant that helps users create stylish outfits based on their wardrobe, preferences, and current trends.</p>
+          <p>Features include:</p>
+          <ul align="left">
+            <li>AI-powered outfit recommendations</li>
+            <li>Virtual wardrobe management</li>
+            <li>Style inspiration based on weather</li>
+            <li>Shopping suggestions</li>
+            <li>Color palette matching</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Animated Project Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<!-- More Projects Coming Soon Animation -->
+<div align="center">
+  <h3>✨ More Magical Projects Coming Soon! ✨</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="250">
+</div>
+
+## 🌐 My Coding Universe
+
+<div align="center">
+  <!-- 3D Coding Universe Animation -->
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="200">
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="200">
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🎨 Code Art Gallery
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4d51-951b-d27155d26736.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
+  <br><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f36e360b-1855-4951-8e7c-4e2b5f7542d2.gif" width="500">
+</div>
+
+## 💻 Interactive Coding World
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="500">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <h3>Coding Day</h3>
+        <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
+      </td>
+      <td>
+        <h3>Coding Night</h3>
+        <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🦄 My Magical Coding Companions
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-fe9f-4391-82ac-1d24f0d2c1a2.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/235223610-9d4a5a1b-9b11-4e30-9015-7c7b538803c5.gif" width="200">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="300">
+  <img src="https://user-images.githubusercontent.com/74038190/236119728-9e4b1f91-319b-4aa0-842a-af79272e6a02.gif" width="300">
+</div>
+
+## 💭 Coding Thoughts
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="300">
+</div>
+
+<div align="center">
+  <h3>"First, solve the problem. Then, write the code."</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="400">
+  <h3>"Code is like humor. When you have to explain it, it's bad."</h3>
+</div>
+
+## 🚀 Skills in Action
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="700">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="350">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="350">
+</div>
+
 
 
 <!-- 3D Animation Divider -->
