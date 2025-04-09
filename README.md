@@ -248,28 +248,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 </div>
 
-<div align="center">
-  <!-- Replace percentages with your actual estimates -->
-  <img src="https://img.shields.io/badge/JavaScript-40%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-20%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML/CSS-15%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-10%25-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-10%25-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Other-5%25-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
-</div>
-
-<div align="center">
-  <p><i>✨ Percentages based on my recent development work across private repositories ✨</i></p>
-</div>
-```
-
-You can adjust the percentages and languages to match your actual usage. This approach gives you full control over what's displayed while maintaining the beautiful aesthetic of your profile.
-```
-
-
-
-
-
 <!-- 3D Animation Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
