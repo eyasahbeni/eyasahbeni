@@ -242,6 +242,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyasahbeni&theme=radical" alt="GitHub Streak" />
 </div>
 
+ <div align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyasahbeni&layout=compact&theme=radical&hide_border=true"
+          alt="Top Languages"
+        />
+      </div>
 
 
 <!-- 3D Animation Divider -->
