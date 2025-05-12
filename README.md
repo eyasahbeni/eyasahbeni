@@ -153,6 +153,8 @@
 <!-- 3D Animation Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+
+
 ## 🌟 Featured Projects
 
 ## 🌟 Featured Projects
@@ -166,52 +168,88 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">✨ Health Care App ✨</h3>
+        <h3 align="center">⚽ SportMate Web App ⚽</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif" width="300" alt="Health Care App" />
+            <img src="https://user-images.githubusercontent.com/74038190/237019891-sportmate.gif" width="300" alt="SportMate Web App" />
           </a>
           <p>
             <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/LIVE DEMO-ff69b4?style=for-the-badge&logo=codepen&logoColor=white" />
+              <img src="https://img.shields.io/badge/LIVE DEMO-F39C12?style=for-the-badge&logo=vercel&logoColor=white" />
             </a>
           </p>
-          <p><strong>React Native, Firebase, Node.js</strong> - A comprehensive healthcare application that connects patients with doctors, manages appointments, and provides health tracking features.</p>
+          <p><strong>React, MongoDB, Express</strong> - A dynamic platform to find teammates, organize sports events, and join friendly competitions.</p>
           <p>Features include:</p>
           <ul align="left">
-            <li>Real-time appointment scheduling</li>
-            <li>Secure patient-doctor messaging</li>
-            <li>Health metrics tracking</li>
-            <li>Medication reminders</li>
-            <li>Telehealth video consultations</li>
+            <li>Create & join local matches</li>
+            <li>Search by sport, location, or time</li>
+            <li>Team chat & notifications</li>
+            <li>Player profiles & match stats</li>
+            <li>Calendar integration</li>
           </ul>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">🌈 AI-Powered Fashion Assistant 🌈</h3>
+        <h3 align="center">🐾 Animal Welfare App 🐾</h3>
         <div align="center">
           <a href="#" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44a0-9738-f4c3d83a2393.gif" width="300" alt="Fashion Assistant" />
+            <img src="https://user-images.githubusercontent.com/74038190/236872345-animal-shelter.gif" width="300" alt="Animal Welfare App" />
           </a>
           <p>
             <a href="#" target="_blank">
-              <img src="https://img.shields.io/badge/COMING SOON-ff69b4?style=for-the-badge&logo=react&logoColor=white" />
+              <img src="https://img.shields.io/badge/LIVE DEMO-82E0AA?style=for-the-badge&logo=github&logoColor=white" />
             </a>
           </p>
-          <p><strong>React, TensorFlow.js, Next.js</strong> - A smart fashion assistant that helps users create stylish outfits based on their wardrobe, preferences, and current trends.</p>
+          <p><strong>React, Node.js, PostgreSQL</strong> - A heartfelt app helping people adopt rescued animals, donate for vet needs, and support shelters.</p>
           <p>Features include:</p>
           <ul align="left">
-            <li>AI-powered outfit recommendations</li>
-            <li>Virtual wardrobe management</li>
-            <li>Style inspiration based on weather</li>
-            <li>Shopping suggestions</li>
-            <li>Color palette matching</li>
+            <li>Find pets available for adoption</li>
+            <li>Donate for medical treatments</li>
+            <li>Join a local animal-loving community</li>
+            <li>Post rescue stories and success updates</li>
+            <li>Multi-language support (EN/FR)</li>
           </ul>
         </div>
       </td>
     </tr>
   </table>
 </div>
+
+<!-- Animated Project Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<!-- Bike Station Finder Mobile App -->
+<div align="center">
+  <h3 align="center">🚲 Bike Station Finder Mobile App 🚲</h3>
+  <div align="center">
+    <a href="#" target="_blank">
+      <img src="https://user-images.githubusercontent.com/74038190/237021728-bike-app.gif" width="300" alt="Bike Station Finder" />
+    </a>
+    <p>
+      <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/LIVE DEMO-5DADE2?style=for-the-badge&logo=expo&logoColor=white" />
+      </a>
+    </p>
+    <p><strong>React Native, Expo, PostgreSQL</strong> - A mobile app that helps users find nearby bike stations and rent bikes in real-time.</p>
+    <p>Features include:</p>
+    <ul align="center">
+      <li>Live map with bike stations</li>
+      <li>Filter by available bikes or docks</li>
+      <li>Reserve bikes with one tap</li>
+      <li>Station details & user reviews</li>
+      <li>Multilingual UI (EN/FR)</li>
+    </ul>
+  </div>
+</div>
+
+<!-- More Projects Coming Soon Animation -->
+<div align="center">
+  <h3>✨ More Magical Projects Coming Soon! ✨</h3>
+  <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="250">
+</div>
+
 
 <!-- Animated Project Divider -->
 <div align="center">
