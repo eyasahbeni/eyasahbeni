@@ -155,64 +155,92 @@
 
 ## 🌟 Featured Projects
 
-<!-- Animated Header --> <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/236304340-d0ce5f82-b8d2-4f46-b5dd-d18a238eedce.gif" width="800"> </div> <div align="center"> <table> <tr> <td width="50%"> <h3 align="center">🐾 Animal Welfare App 🐾</h3> <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/236872345-animal-shelter.gif" width="300" alt="Animal Welfare App" /> <p> <a href="#" target="_blank"> <img src="https://img.shields.io/badge/LIVE DEMO-82E0AA?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <p><strong>React, Node.js, PostgreSQL</strong> – A heartfelt app helping people adopt rescued animals, donate for vet needs, and support shelters.</p> <p>Features include:</p> <ul align="left"> <li>Find pets available for adoption</li> <li>Donate for medical treatments</li> <li>Join a local animal-loving community</li> <li>Post rescue stories and success updates</li> <li>Multi-language support (EN/FR)</li> </ul> </div> </td>
-  <td width="50%">
-    <h3 align="center">⚽ SportMate Web App ⚽</h3>
-    <div align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/237019891-sportmate.gif" width="300" alt="SportMate" />
-      <p>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE DEMO-F39C12?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
-      <p><strong>React, MongoDB, Express</strong> – A dynamic platform to find teammates, organize sports events, and join friendly competitions.</p>
-      <p>Features include:</p>
-      <ul align="left">
-        <li>Create & join local matches</li>
-        <li>Search by sport, location, or time</li>
-        <li>Team chat & notifications</li>
-        <li>Player profiles & match stats</li>
-        <li>Calendar integration</li>
-      </ul>
-    </div>
-  </td>
-</tr>
-
-<tr>
-  <td colspan="2">
-    <h3 align="center">🚲 Bike Station Finder Mobile App 🚲</h3>
-    <div align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/237021728-bike-app.gif" width="300" alt="Bike Station App" />
-      <p>
-        <a href="#" target="_blank">
-          <img src="https://img.shields.io/badge/LIVE DEMO-5DADE2?style=for-the-badge&logo=expo&logoColor=white" />
-        </a>
-      </p>
-      <p><strong>React Native, Expo, PostgreSQL</strong> – A mobile app that helps users find nearby bike stations and rent bikes in real-time.</p>
-      <p>Features include:</p>
-      <ul align="center">
-        <li>Live map with bike stations</li>
-        <li>Filter by available bikes or docks</li>
-        <li>Reserve bikes with one tap</li>
-        <li>Station details & user reviews</li>
-        <li>Multilingual UI (EN/FR)</li>
-      </ul>
-    </div>
-  </td>
-</tr>
-
-<!-- Animated Project Divider -->
+<!-- Main Container for Featured Projects -->
 <div align="center">
+  
+  <!-- Animated Header -->
+  <img src="https://user-images.githubusercontent.com/74038190/236304340-d0ce5f82-b8d2-4f46-b5dd-d18a238eedce.gif" width="800">
+
+  <!-- Projects Table -->
+  <table>
+    <tr>
+      <!-- Animal Welfare App -->
+      <td width="50%">
+        <h3 align="center">🐾 Animal Welfare App 🐾</h3>
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/236872345-animal-shelter.gif" width="300" alt="Animal Welfare App" />
+          <p>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/LIVE DEMO-82E0AA?style=for-the-badge&logo=github&logoColor=white" />
+            </a>
+          </p>
+          <p><strong>React, Node.js, PostgreSQL</strong> – A heartfelt app helping people adopt rescued animals, donate for vet needs, and support shelters.</p>
+          <p>Features include:</p>
+          <ul align="left">
+            <li>Find pets available for adoption</li>
+            <li>Donate for medical treatments</li>
+            <li>Join a local animal-loving community</li>
+            <li>Post rescue stories and success updates</li>
+            <li>Multi-language support (EN/FR)</li>
+          </ul>
+        </div>
+      </td>
+
+      <!-- SportMate Web App -->
+      <td width="50%">
+        <h3 align="center">⚽ SportMate Web App ⚽</h3>
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/237019891-sportmate.gif" width="300" alt="SportMate" />
+          <p>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/LIVE DEMO-F39C12?style=for-the-badge&logo=vercel&logoColor=white" />
+            </a>
+          </p>
+          <p><strong>React, MongoDB, Express</strong> – A dynamic platform to find teammates, organize sports events, and join friendly competitions.</p>
+          <p>Features include:</p>
+          <ul align="left">
+            <li>Create & join local matches</li>
+            <li>Search by sport, location, or time</li>
+            <li>Team chat & notifications</li>
+            <li>Player profiles & match stats</li>
+            <li>Calendar integration</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+
+    <tr>
+      <!-- Bike Station Finder Mobile App -->
+      <td colspan="2">
+        <h3 align="center">🚲 Bike Station Finder Mobile App 🚲</h3>
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/237021728-bike-app.gif" width="300" alt="Bike Station App" />
+          <p>
+            <a href="#" target="_blank">
+              <img src="https://img.shields.io/badge/LIVE DEMO-5DADE2?style=for-the-badge&logo=expo&logoColor=white" />
+            </a>
+          </p>
+          <p><strong>React Native, Expo, PostgreSQL</strong> – A mobile app that helps users find nearby bike stations and rent bikes in real-time.</p>
+          <p>Features include:</p>
+          <ul align="center">
+            <li>Live map with bike stations</li>
+            <li>Filter by available bikes or docks</li>
+            <li>Reserve bikes with one tap</li>
+            <li>Station details & user reviews</li>
+            <li>Multilingual UI (EN/FR)</li>
+          </ul>
+        </div>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Animated Project Divider -->
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
 
-<!-- More Projects Coming Soon Animation -->
-<div align="center">
+  <!-- More Projects Coming Soon -->
   <h3>✨ More Magical Projects Coming Soon! ✨</h3>
   <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="250">
 </div>
-
-
 
 
 
