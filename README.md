@@ -157,8 +157,6 @@
 
 ## 🌟 Featured Projects
 
-## 🌟 Featured Projects
-
 <!-- 3D Project Showcase Animation -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/236304340-d0ce5f82-b8d2-4f46-b5dd-d18a238eedce.gif" width="800">
@@ -220,28 +218,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-<!-- Bike Station Finder Mobile App -->
+<!-- Animated Background Divider -->
 <div align="center">
-  <h3 align="center">🚲 Bike Station Finder Mobile App 🚲</h3>
-  <div align="center">
-    <a href="#" target="_blank">
-      <img src="https://user-images.githubusercontent.com/74038190/237021728-bike-app.gif" width="300" alt="Bike Station Finder" />
-    </a>
-    <p>
-      <a href="#" target="_blank">
-        <img src="https://img.shields.io/badge/LIVE DEMO-5DADE2?style=for-the-badge&logo=expo&logoColor=white" />
-      </a>
-    </p>
-    <p><strong>React Native, Expo, PostgreSQL</strong> - A mobile app that helps users find nearby bike stations and rent bikes in real-time.</p>
-    <p>Features include:</p>
-    <ul align="center">
-      <li>Live map with bike stations</li>
-      <li>Filter by available bikes or docks</li>
-      <li>Reserve bikes with one tap</li>
-      <li>Station details & user reviews</li>
-      <li>Multilingual UI (EN/FR)</li>
-    </ul>
-  </div>
+  <img src="https://user-images.githubusercontent.com/74038190/237015493-e301f95d-9935-4683-9ae4-f29b7c926f3f.gif" width="400" alt="Animated Divider" />
 </div>
 
 <!-- More Projects Coming Soon Animation -->
@@ -249,27 +228,6 @@
   <h3>✨ More Magical Projects Coming Soon! ✨</h3>
   <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="250">
 </div>
-
-
-<!-- Animated Project Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-<!-- More Projects Coming Soon Animation -->
-<div align="center">
-  <h3>✨ More Magical Projects Coming Soon! ✨</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="250">
-</div> lets chng the project to be i spoet mate webe app and i animal welfare  app  and i   i mobile app its  to help you finss and conct with staionn that you ca, rent byclce from it
-
-  <!-- Animated Project Divider -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-  <!-- More Projects Coming Soon -->
-  <h3>✨ More Magical Projects Coming Soon! ✨</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="250">
-</div>
-
 
 
 
