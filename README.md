@@ -14,5 +14,5 @@ const eya = {
 ---
 
 📫 sahbenii.eya@gmail.com
-🔗 [linkedin.com/in/eya-sahbeni](https://linkedin.com/in/eya-sahbeni)
-🐙 [github.com/eyasahbeni](https://github.com/eyasahbeni)
+🔗 [linkedin.com/in/eya-sahbeni](https://www.linkedin.com/in/eyasahbeni/ )
+🌐 [eya-dev.vercel.app](https://eya-dev.vercel.app)
